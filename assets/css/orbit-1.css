@@ -63,6 +63,7 @@ p {
 
 .sidebar-wrapper a {
   color: #fff;
+  font-size: 11px;
 }
 
 .sidebar-wrapper .profile-container {
@@ -89,6 +90,7 @@ p {
 
 .sidebar-wrapper .profile {
   margin-bottom: 15px;
+  width: 70%;
 }
 
 .sidebar-wrapper .contact-list .svg-inline--fa {
