@@ -382,3 +382,7 @@ p {
   border-radius: 50%;
   display: inline-block;
 }
+
+.bold-text {
+	font-weight: bold;
+}
